@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ahadsaleem711
-- 👀 I’m interested in cyber security pentesting
+- 👀 I’m interested in Cyber Security Analyst
 - 🌱 I’m currently learning pre security course in tryhackme.com
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Cyber Security Project
 - 📫 How to reach me +92321-2773118
 
 <!---
